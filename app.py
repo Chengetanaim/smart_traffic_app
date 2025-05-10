@@ -8,7 +8,7 @@ import os
 
 # Title
 st.set_page_config(page_title="Smart Traffic System - Gweru", layout="wide")
-st.title("🚦 Smart Traffic Intelligence System – Gweru")
+st.title("Traffic Flow Modelling")
 
 # User login
 user = login_user()
