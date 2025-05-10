@@ -1,0 +1,5 @@
+streamlit==1.10.0
+pandas==1.5.3
+folium==0.12.1
+streamlit-folium==0.10.0
+sqlite3  # sqlite3 is built-in with Python, no need to install separately
