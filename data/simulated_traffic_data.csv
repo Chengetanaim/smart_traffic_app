@@ -1,169 +1,169 @@
 timestamp,location,road_type,congestion_level,accident_probability,fuel_consumption_l_per_100km
-2025-05-10 00:00:00,CBD,main road,6,0.2,12.58
-2025-05-10 00:00:00,Mkoba,main road,5,0.03,14.54
-2025-05-10 00:00:00,Ascot,highway,6,0.08,10.85
-2025-05-10 00:00:00,Senga,main road,8,0.0,9.92
-2025-05-10 00:00:00,Lundi Park,main road,2,0.13,7.6
-2025-05-10 00:00:00,Ridgemont,highway,5,0.18,14.45
-2025-05-10 00:00:00,Mambo,residential,3,0.33,13.74
-2025-05-10 01:00:00,CBD,main road,6,0.02,11.86
-2025-05-10 01:00:00,Mkoba,highway,5,0.35,7.75
-2025-05-10 01:00:00,Ascot,highway,2,0.04,14.38
-2025-05-10 01:00:00,Senga,residential,8,0.23,11.93
-2025-05-10 01:00:00,Lundi Park,highway,1,0.24,11.86
-2025-05-10 01:00:00,Ridgemont,highway,4,0.07,9.75
-2025-05-10 01:00:00,Mambo,highway,7,0.39,9.89
-2025-05-10 02:00:00,CBD,highway,7,0.13,13.12
-2025-05-10 02:00:00,Mkoba,residential,3,0.01,7.06
-2025-05-10 02:00:00,Ascot,residential,8,0.22,10.02
-2025-05-10 02:00:00,Senga,highway,4,0.13,14.3
-2025-05-10 02:00:00,Lundi Park,residential,5,0.06,9.63
-2025-05-10 02:00:00,Ridgemont,highway,5,0.26,9.61
-2025-05-10 02:00:00,Mambo,residential,3,0.02,14.37
-2025-05-10 03:00:00,CBD,main road,6,0.07,7.33
-2025-05-10 03:00:00,Mkoba,residential,6,0.04,12.39
-2025-05-10 03:00:00,Ascot,main road,4,0.15,7.46
-2025-05-10 03:00:00,Senga,main road,5,0.22,5.05
-2025-05-10 03:00:00,Lundi Park,main road,6,0.08,5.19
-2025-05-10 03:00:00,Ridgemont,residential,2,0.09,12.35
-2025-05-10 03:00:00,Mambo,highway,6,0.11,7.87
-2025-05-10 04:00:00,CBD,highway,6,0.1,14.08
-2025-05-10 04:00:00,Mkoba,residential,3,0.04,14.4
-2025-05-10 04:00:00,Ascot,main road,3,0.12,13.96
-2025-05-10 04:00:00,Senga,main road,2,0.13,14.02
-2025-05-10 04:00:00,Lundi Park,main road,7,0.2,12.85
-2025-05-10 04:00:00,Ridgemont,main road,4,0.03,14.14
-2025-05-10 04:00:00,Mambo,main road,2,0.08,14.13
-2025-05-10 05:00:00,CBD,residential,3,0.05,9.88
-2025-05-10 05:00:00,Mkoba,residential,5,0.1,11.68
-2025-05-10 05:00:00,Ascot,highway,5,0.12,7.94
-2025-05-10 05:00:00,Senga,highway,5,0.08,7.61
-2025-05-10 05:00:00,Lundi Park,highway,3,0.16,6.49
-2025-05-10 05:00:00,Ridgemont,residential,3,0.23,12.2
-2025-05-10 05:00:00,Mambo,main road,4,0.11,14.18
-2025-05-10 06:00:00,CBD,residential,8,0.12,10.07
-2025-05-10 06:00:00,Mkoba,residential,5,0.09,10.77
-2025-05-10 06:00:00,Ascot,main road,1,0.05,11.75
-2025-05-10 06:00:00,Senga,residential,6,0.26,8.13
-2025-05-10 06:00:00,Lundi Park,highway,5,0.14,6.13
-2025-05-10 06:00:00,Ridgemont,main road,1,0.24,13.48
-2025-05-10 06:00:00,Mambo,residential,2,0.09,11.63
-2025-05-10 07:00:00,CBD,residential,5,0.18,10.71
-2025-05-10 07:00:00,Mkoba,main road,4,0.2,5.33
-2025-05-10 07:00:00,Ascot,main road,3,0.13,14.76
-2025-05-10 07:00:00,Senga,main road,1,0.29,9.6
-2025-05-10 07:00:00,Lundi Park,highway,5,0.14,8.76
-2025-05-10 07:00:00,Ridgemont,highway,4,0.2,6.48
-2025-05-10 07:00:00,Mambo,main road,1,0.07,5.35
-2025-05-10 08:00:00,CBD,highway,1,0.19,7.07
-2025-05-10 08:00:00,Mkoba,residential,5,0.22,13.63
-2025-05-10 08:00:00,Ascot,main road,3,0.05,10.08
-2025-05-10 08:00:00,Senga,residential,8,0.21,9.68
-2025-05-10 08:00:00,Lundi Park,highway,5,0.19,12.71
-2025-05-10 08:00:00,Ridgemont,main road,3,0.45,11.71
-2025-05-10 08:00:00,Mambo,residential,4,0.12,14.21
-2025-05-10 09:00:00,CBD,main road,3,0.06,5.05
-2025-05-10 09:00:00,Mkoba,residential,3,0.46,7.2
-2025-05-10 09:00:00,Ascot,main road,2,0.23,12.92
-2025-05-10 09:00:00,Senga,highway,5,0.09,14.33
-2025-05-10 09:00:00,Lundi Park,residential,6,0.6,7.8
-2025-05-10 09:00:00,Ridgemont,highway,3,0.09,14.54
-2025-05-10 09:00:00,Mambo,main road,1,0.07,14.99
-2025-05-10 10:00:00,CBD,main road,2,0.11,13.98
-2025-05-10 10:00:00,Mkoba,residential,3,0.4,13.98
-2025-05-10 10:00:00,Ascot,main road,5,0.29,7.74
-2025-05-10 10:00:00,Senga,residential,6,0.07,13.85
-2025-05-10 10:00:00,Lundi Park,residential,4,0.12,9.13
-2025-05-10 10:00:00,Ridgemont,residential,3,0.14,7.54
-2025-05-10 10:00:00,Mambo,highway,5,0.12,13.01
-2025-05-10 11:00:00,CBD,highway,5,0.17,13.0
-2025-05-10 11:00:00,Mkoba,residential,7,0.18,8.21
-2025-05-10 11:00:00,Ascot,main road,7,0.07,11.91
-2025-05-10 11:00:00,Senga,main road,2,0.13,10.84
-2025-05-10 11:00:00,Lundi Park,highway,4,0.35,8.77
-2025-05-10 11:00:00,Ridgemont,residential,2,0.25,5.67
-2025-05-10 11:00:00,Mambo,highway,4,0.04,10.9
-2025-05-10 12:00:00,CBD,highway,6,0.04,13.1
-2025-05-10 12:00:00,Mkoba,highway,5,0.07,5.02
-2025-05-10 12:00:00,Ascot,highway,4,0.13,14.06
-2025-05-10 12:00:00,Senga,residential,2,0.09,13.87
-2025-05-10 12:00:00,Lundi Park,highway,1,0.33,12.24
-2025-05-10 12:00:00,Ridgemont,highway,5,0.14,13.32
-2025-05-10 12:00:00,Mambo,highway,6,0.16,5.74
-2025-05-10 13:00:00,CBD,highway,2,0.16,9.85
-2025-05-10 13:00:00,Mkoba,residential,4,0.19,7.43
-2025-05-10 13:00:00,Ascot,highway,6,0.12,12.19
-2025-05-10 13:00:00,Senga,residential,2,0.16,14.07
-2025-05-10 13:00:00,Lundi Park,highway,2,0.36,12.24
-2025-05-10 13:00:00,Ridgemont,residential,3,0.06,9.9
-2025-05-10 13:00:00,Mambo,residential,5,0.11,11.98
-2025-05-10 14:00:00,CBD,highway,3,0.15,10.81
-2025-05-10 14:00:00,Mkoba,residential,2,0.07,7.6
-2025-05-10 14:00:00,Ascot,main road,6,0.08,5.57
-2025-05-10 14:00:00,Senga,main road,5,0.02,13.62
-2025-05-10 14:00:00,Lundi Park,residential,6,0.17,11.82
-2025-05-10 14:00:00,Ridgemont,residential,7,0.09,13.44
-2025-05-10 14:00:00,Mambo,residential,4,0.07,5.8
-2025-05-10 15:00:00,CBD,residential,6,0.28,8.68
-2025-05-10 15:00:00,Mkoba,highway,2,0.13,13.85
-2025-05-10 15:00:00,Ascot,residential,5,0.36,11.23
-2025-05-10 15:00:00,Senga,residential,9,0.1,8.51
-2025-05-10 15:00:00,Lundi Park,residential,7,0.06,10.3
-2025-05-10 15:00:00,Ridgemont,highway,5,0.05,5.47
-2025-05-10 15:00:00,Mambo,main road,5,0.21,9.31
-2025-05-10 16:00:00,CBD,residential,3,0.2,8.73
-2025-05-10 16:00:00,Mkoba,main road,2,0.04,8.77
-2025-05-10 16:00:00,Ascot,highway,5,0.01,6.78
-2025-05-10 16:00:00,Senga,residential,3,0.29,6.25
-2025-05-10 16:00:00,Lundi Park,highway,10,0.09,5.46
-2025-05-10 16:00:00,Ridgemont,highway,5,0.09,13.61
-2025-05-10 16:00:00,Mambo,residential,3,0.01,10.55
-2025-05-10 17:00:00,CBD,residential,2,0.2,8.57
-2025-05-10 17:00:00,Mkoba,residential,6,0.24,9.01
-2025-05-10 17:00:00,Ascot,residential,3,0.35,14.8
-2025-05-10 17:00:00,Senga,highway,5,0.26,5.29
-2025-05-10 17:00:00,Lundi Park,main road,4,0.19,8.33
-2025-05-10 17:00:00,Ridgemont,highway,6,0.16,8.26
-2025-05-10 17:00:00,Mambo,residential,3,0.08,14.62
-2025-05-10 18:00:00,CBD,main road,4,0.1,6.14
-2025-05-10 18:00:00,Mkoba,highway,4,0.16,14.58
-2025-05-10 18:00:00,Ascot,main road,5,0.26,8.38
-2025-05-10 18:00:00,Senga,main road,4,0.11,14.38
-2025-05-10 18:00:00,Lundi Park,residential,7,0.13,14.72
-2025-05-10 18:00:00,Ridgemont,residential,4,0.13,14.36
-2025-05-10 18:00:00,Mambo,residential,5,0.15,14.21
-2025-05-10 19:00:00,CBD,highway,8,0.12,8.79
-2025-05-10 19:00:00,Mkoba,highway,5,0.01,14.23
-2025-05-10 19:00:00,Ascot,highway,6,0.03,14.92
-2025-05-10 19:00:00,Senga,highway,3,0.09,9.45
-2025-05-10 19:00:00,Lundi Park,main road,4,0.1,8.9
-2025-05-10 19:00:00,Ridgemont,main road,8,0.1,12.08
-2025-05-10 19:00:00,Mambo,highway,3,0.05,14.73
-2025-05-10 20:00:00,CBD,highway,7,0.2,8.16
-2025-05-10 20:00:00,Mkoba,main road,4,0.28,8.53
-2025-05-10 20:00:00,Ascot,residential,3,0.1,14.94
-2025-05-10 20:00:00,Senga,highway,5,0.28,10.45
-2025-05-10 20:00:00,Lundi Park,residential,4,0.23,5.01
-2025-05-10 20:00:00,Ridgemont,main road,4,0.21,13.75
-2025-05-10 20:00:00,Mambo,residential,5,0.12,12.92
-2025-05-10 21:00:00,CBD,residential,4,0.21,6.59
-2025-05-10 21:00:00,Mkoba,residential,7,0.12,13.54
-2025-05-10 21:00:00,Ascot,highway,6,0.12,7.12
-2025-05-10 21:00:00,Senga,highway,2,0.18,12.01
-2025-05-10 21:00:00,Lundi Park,main road,3,0.14,12.29
-2025-05-10 21:00:00,Ridgemont,highway,6,0.23,9.67
-2025-05-10 21:00:00,Mambo,highway,7,0.13,9.87
-2025-05-10 22:00:00,CBD,main road,3,0.08,12.34
-2025-05-10 22:00:00,Mkoba,highway,4,0.12,5.69
-2025-05-10 22:00:00,Ascot,residential,4,0.05,7.79
-2025-05-10 22:00:00,Senga,highway,2,0.12,5.03
-2025-05-10 22:00:00,Lundi Park,residential,5,0.08,12.0
-2025-05-10 22:00:00,Ridgemont,highway,4,0.21,9.18
-2025-05-10 22:00:00,Mambo,highway,3,0.16,13.05
-2025-05-10 23:00:00,CBD,main road,2,0.3,11.11
-2025-05-10 23:00:00,Mkoba,highway,4,0.28,12.17
-2025-05-10 23:00:00,Ascot,main road,6,0.14,14.63
-2025-05-10 23:00:00,Senga,residential,3,0.09,10.8
-2025-05-10 23:00:00,Lundi Park,highway,8,0.14,8.02
-2025-05-10 23:00:00,Ridgemont,residential,5,0.21,8.35
-2025-05-10 23:00:00,Mambo,main road,5,0.25,7.32
+2025-05-10 00:00:00,CBD,main road,3,0.12,10.58
+2025-05-10 00:00:00,Avondale,main road,2,0.05,9.54
+2025-05-10 00:00:00,Borrowdale,highway,1,0.03,8.85
+2025-05-10 00:00:00,Highlands,main road,1,0.02,7.92
+2025-05-10 00:00:00,Mbare,main road,4,0.15,11.6
+2025-05-10 00:00:00,Mount Pleasant,highway,2,0.04,9.45
+2025-05-10 00:00:00,Westgate,residential,1,0.03,8.74
+2025-05-10 01:00:00,CBD,main road,2,0.08,9.86
+2025-05-10 01:00:00,Avondale,highway,1,0.05,7.75
+2025-05-10 01:00:00,Borrowdale,highway,1,0.02,8.38
+2025-05-10 01:00:00,Highlands,residential,1,0.03,7.93
+2025-05-10 01:00:00,Mbare,highway,3,0.14,9.86
+2025-05-10 01:00:00,Mount Pleasant,highway,1,0.03,7.75
+2025-05-10 01:00:00,Westgate,highway,1,0.02,7.89
+2025-05-10 02:00:00,CBD,highway,2,0.05,8.12
+2025-05-10 02:00:00,Avondale,residential,1,0.01,7.06
+2025-05-10 02:00:00,Borrowdale,residential,1,0.02,7.02
+2025-05-10 02:00:00,Highlands,highway,1,0.03,8.30
+2025-05-10 02:00:00,Mbare,residential,2,0.06,8.63
+2025-05-10 02:00:00,Mount Pleasant,highway,1,0.02,7.61
+2025-05-10 02:00:00,Westgate,residential,1,0.01,7.37
+2025-05-10 03:00:00,CBD,main road,1,0.04,7.33
+2025-05-10 03:00:00,Avondale,residential,1,0.02,7.39
+2025-05-10 03:00:00,Borrowdale,main road,1,0.03,7.46
+2025-05-10 03:00:00,Highlands,main road,1,0.02,7.05
+2025-05-10 03:00:00,Mbare,main road,2,0.08,8.19
+2025-05-10 03:00:00,Mount Pleasant,residential,1,0.01,7.35
+2025-05-10 03:00:00,Westgate,highway,1,0.02,7.87
+2025-05-10 04:00:00,CBD,highway,2,0.05,8.08
+2025-05-10 04:00:00,Avondale,residential,1,0.02,7.40
+2025-05-10 04:00:00,Borrowdale,main road,1,0.02,7.96
+2025-05-10 04:00:00,Highlands,main road,1,0.03,8.02
+2025-05-10 04:00:00,Mbare,main road,3,0.10,9.85
+2025-05-10 04:00:00,Mount Pleasant,main road,1,0.03,8.14
+2025-05-10 04:00:00,Westgate,main road,1,0.02,7.13
+2025-05-10 05:00:00,CBD,residential,2,0.05,8.88
+2025-05-10 05:00:00,Avondale,residential,2,0.05,8.68
+2025-05-10 05:00:00,Borrowdale,highway,1,0.03,7.94
+2025-05-10 05:00:00,Highlands,highway,2,0.04,7.61
+2025-05-10 05:00:00,Mbare,highway,3,0.09,9.49
+2025-05-10 05:00:00,Mount Pleasant,residential,2,0.04,8.20
+2025-05-10 05:00:00,Westgate,main road,1,0.03,8.18
+2025-05-10 06:00:00,CBD,residential,6,0.14,11.07
+2025-05-10 06:00:00,Avondale,residential,4,0.09,10.77
+2025-05-10 06:00:00,Borrowdale,main road,3,0.05,9.75
+2025-05-10 06:00:00,Highlands,residential,3,0.06,9.13
+2025-05-10 06:00:00,Mbare,highway,7,0.18,12.13
+2025-05-10 06:00:00,Mount Pleasant,main road,3,0.07,9.48
+2025-05-10 06:00:00,Westgate,residential,2,0.04,8.63
+2025-05-10 07:00:00,CBD,residential,8,0.20,12.71
+2025-05-10 07:00:00,Avondale,main road,6,0.15,11.33
+2025-05-10 07:00:00,Borrowdale,main road,5,0.10,10.76
+2025-05-10 07:00:00,Highlands,main road,4,0.09,9.60
+2025-05-10 07:00:00,Mbare,highway,9,0.22,12.76
+2025-05-10 07:00:00,Mount Pleasant,highway,5,0.12,10.48
+2025-05-10 07:00:00,Westgate,main road,4,0.08,9.35
+2025-05-10 08:00:00,CBD,highway,9,0.25,12.07
+2025-05-10 08:00:00,Avondale,residential,7,0.16,11.63
+2025-05-10 08:00:00,Borrowdale,main road,6,0.12,10.08
+2025-05-10 08:00:00,Highlands,residential,5,0.10,9.68
+2025-05-10 08:00:00,Mbare,highway,10,0.28,12.71
+2025-05-10 08:00:00,Mount Pleasant,main road,6,0.15,10.71
+2025-05-10 08:00:00,Westgate,residential,5,0.12,10.21
+2025-05-10 09:00:00,CBD,main road,8,0.18,11.05
+2025-05-10 09:00:00,Avondale,residential,5,0.12,10.20
+2025-05-10 09:00:00,Borrowdale,main road,5,0.10,9.92
+2025-05-10 09:00:00,Highlands,highway,4,0.09,9.33
+2025-05-10 09:00:00,Mbare,residential,8,0.20,11.80
+2025-05-10 09:00:00,Mount Pleasant,highway,4,0.09,9.54
+2025-05-10 09:00:00,Westgate,main road,4,0.09,9.99
+2025-05-10 10:00:00,CBD,main road,7,0.15,10.98
+2025-05-10 10:00:00,Avondale,residential,5,0.10,9.98
+2025-05-10 10:00:00,Borrowdale,main road,4,0.09,9.74
+2025-05-10 10:00:00,Highlands,residential,3,0.07,8.85
+2025-05-10 10:00:00,Mbare,residential,7,0.18,11.13
+2025-05-10 10:00:00,Mount Pleasant,residential,3,0.08,8.54
+2025-05-10 10:00:00,Westgate,highway,3,0.07,9.01
+2025-05-10 11:00:00,CBD,highway,7,0.17,11.00
+2025-05-10 11:00:00,Avondale,residential,5,0.11,9.21
+2025-05-10 11:00:00,Borrowdale,main road,4,0.08,9.91
+2025-05-10 11:00:00,Highlands,main road,3,0.06,8.84
+2025-05-10 11:00:00,Mbare,highway,8,0.20,11.77
+2025-05-10 11:00:00,Mount Pleasant,residential,3,0.07,8.67
+2025-05-10 11:00:00,Westgate,highway,3,0.06,8.90
+2025-05-10 12:00:00,CBD,highway,8,0.16,11.10
+2025-05-10 12:00:00,Avondale,highway,6,0.12,10.02
+2025-05-10 12:00:00,Borrowdale,highway,5,0.10,9.06
+2025-05-10 12:00:00,Highlands,residential,4,0.09,8.87
+2025-05-10 12:00:00,Mbare,highway,9,0.22,12.24
+2025-05-10 12:00:00,Mount Pleasant,highway,5,0.09,9.32
+2025-05-10 12:00:00,Westgate,highway,4,0.08,8.74
+2025-05-10 13:00:00,CBD,highway,7,0.16,10.85
+2025-05-10 13:00:00,Avondale,residential,5,0.10,9.43
+2025-05-10 13:00:00,Borrowdale,highway,4,0.09,9.19
+2025-05-10 13:00:00,Highlands,residential,3,0.07,8.07
+2025-05-10 13:00:00,Mbare,highway,8,0.20,11.24
+2025-05-10 13:00:00,Mount Pleasant,residential,3,0.06,8.90
+2025-05-10 13:00:00,Westgate,residential,3,0.07,8.98
+2025-05-10 14:00:00,CBD,highway,7,0.15,10.81
+2025-05-10 14:00:00,Avondale,residential,5,0.09,9.60
+2025-05-10 14:00:00,Borrowdale,main road,4,0.08,9.57
+2025-05-10 14:00:00,Highlands,main road,3,0.05,8.62
+2025-05-10 14:00:00,Mbare,residential,7,0.17,10.82
+2025-05-10 14:00:00,Mount Pleasant,residential,4,0.09,9.44
+2025-05-10 14:00:00,Westgate,residential,3,0.06,8.80
+2025-05-10 15:00:00,CBD,residential,6,0.15,10.68
+2025-05-10 15:00:00,Avondale,highway,5,0.10,9.85
+2025-05-10 15:00:00,Borrowdale,residential,4,0.08,9.23
+2025-05-10 15:00:00,Highlands,residential,4,0.07,8.51
+2025-05-10 15:00:00,Mbare,residential,8,0.20,11.30
+2025-05-10 15:00:00,Mount Pleasant,highway,4,0.08,9.47
+2025-05-10 15:00:00,Westgate,main road,3,0.07,8.31
+2025-05-10 16:00:00,CBD,residential,7,0.17,10.73
+2025-05-10 16:00:00,Avondale,main road,6,0.12,9.77
+2025-05-10 16:00:00,Borrowdale,highway,5,0.10,9.78
+2025-05-10 16:00:00,Highlands,residential,4,0.09,9.25
+2025-05-10 16:00:00,Mbare,highway,9,0.22,11.46
+2025-05-10 16:00:00,Mount Pleasant,highway,5,0.09,9.61
+2025-05-10 16:00:00,Westgate,residential,4,0.08,9.55
+2025-05-10 17:00:00,CBD,residential,9,0.20,12.57
+2025-05-10 17:00:00,Avondale,residential,7,0.18,11.01
+2025-05-10 17:00:00,Borrowdale,residential,6,0.15,10.80
+2025-05-10 17:00:00,Highlands,highway,5,0.12,9.29
+2025-05-10 17:00:00,Mbare,main road,10,0.25,12.33
+2025-05-10 17:00:00,Mount Pleasant,highway,6,0.16,10.26
+2025-05-10 17:00:00,Westgate,residential,5,0.12,9.62
+2025-05-10 18:00:00,CBD,main road,8,0.18,11.14
+2025-05-10 18:00:00,Avondale,highway,6,0.16,10.58
+2025-05-10 18:00:00,Borrowdale,main road,5,0.12,9.38
+2025-05-10 18:00:00,Highlands,main road,4,0.11,9.38
+2025-05-10 18:00:00,Mbare,residential,9,0.23,11.72
+2025-05-10 18:00:00,Mount Pleasant,residential,5,0.13,9.36
+2025-05-10 18:00:00,Westgate,residential,4,0.09,9.21
+2025-05-10 19:00:00,CBD,highway,7,0.15,10.79
+2025-05-10 19:00:00,Avondale,highway,5,0.10,9.23
+2025-05-10 19:00:00,Borrowdale,highway,4,0.08,8.92
+2025-05-10 19:00:00,Highlands,highway,3,0.06,8.45
+2025-05-10 19:00:00,Mbare,main road,8,0.18,10.90
+2025-05-10 19:00:00,Mount Pleasant,main road,4,0.10,9.08
+2025-05-10 19:00:00,Westgate,highway,3,0.07,8.73
+2025-05-10 20:00:00,CBD,highway,6,0.14,10.16
+2025-05-10 20:00:00,Avondale,main road,4,0.10,9.53
+2025-05-10 20:00:00,Borrowdale,residential,3,0.07,8.94
+2025-05-10 20:00:00,Highlands,highway,3,0.08,8.45
+2025-05-10 20:00:00,Mbare,residential,7,0.16,10.01
+2025-05-10 20:00:00,Mount Pleasant,main road,3,0.08,8.75
+2025-05-10 20:00:00,Westgate,residential,3,0.07,8.92
+2025-05-10 21:00:00,CBD,residential,5,0.12,9.59
+2025-05-10 21:00:00,Avondale,residential,4,0.09,8.54
+2025-05-10 21:00:00,Borrowdale,highway,3,0.06,8.12
+2025-05-10 21:00:00,Highlands,highway,2,0.05,8.01
+2025-05-10 21:00:00,Mbare,main road,6,0.14,9.29
+2025-05-10 21:00:00,Mount Pleasant,highway,3,0.06,8.67
+2025-05-10 21:00:00,Westgate,highway,2,0.05,7.87
+2025-05-10 22:00:00,CBD,main road,4,0.10,9.34
+2025-05-10 22:00:00,Avondale,highway,3,0.06,8.69
+2025-05-10 22:00:00,Borrowdale,residential,2,0.05,7.79
+2025-05-10 22:00:00,Highlands,highway,2,0.04,8.03
+2025-05-10 22:00:00,Mbare,residential,5,0.12,9.00
+2025-05-10 22:00:00,Mount Pleasant,highway,2,0.05,8.18
+2025-05-10 22:00:00,Westgate,highway,2,0.04,8.05
+2025-05-10 23:00:00,CBD,main road,3,0.10,9.11
+2025-05-10 23:00:00,Avondale,highway,2,0.05,8.17
+2025-05-10 23:00:00,Borrowdale,main road,2,0.04,8.63
+2025-05-10 23:00:00,Highlands,residential,1,0.03,7.80
+2025-05-10 23:00:00,Mbare,highway,4,0.12,9.02
+2025-05-10 23:00:00,Mount Pleasant,residential,2,0.05,8.35
+2025-05-10 23:00:00,Westgate,main road,1,0.03,7.32

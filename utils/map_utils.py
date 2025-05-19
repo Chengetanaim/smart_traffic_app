@@ -3,13 +3,13 @@ import folium
 from streamlit_folium import st_folium
 
 location_coords = {
-    "CBD": [-19.4570, 29.8130],
-    "Mkoba": [-19.4568, 29.8663],
-    "Ascot": [-19.4386, 29.8094],
-    "Senga": [-19.4311, 29.8356],
-    "Lundi Park": [-19.4350, 29.8261],
-    "Ridgemont": [-19.4600, 29.8010],
-    "Mambo": [-19.4423, 29.7892]
+    "CBD": [-17.8292, 31.0522],  # Central Harare
+    "Avondale": [-17.8003, 31.0353],
+    "Borrowdale": [-17.7425, 31.1039],
+    "Highlands": [-17.8028, 31.0819],
+    "Mbare": [-17.8656, 31.0361],
+    "Mount Pleasant": [-17.7686, 31.0353],
+    "Westgate": [-17.8056, 30.9944]
 }
 
 def display_route_map(origin, destination, prediction):
