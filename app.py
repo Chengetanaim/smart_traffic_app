@@ -7,6 +7,7 @@ from streamlit_folium import st_folium
 import numpy as np
 import random
 import datetime
+import hashlib
 
 # Initialize session state variables if they don't exist
 if 'logged_in' not in st.session_state:
@@ -32,6 +33,14 @@ if 'show_admin_panel' not in st.session_state:
 if 'show_user_creation' not in st.session_state:
     st.session_state.show_user_creation = False
 
+def hash_password(password):
+    """Hash a password for storing."""
+    return hashlib.sha256(password.encode()).hexdigest()
+
+def verify_password(stored_password, provided_password):
+    """Verify a stored password against one provided by user"""
+    return stored_password == hashlib.sha256(provided_password.encode()).hexdigest()
+
 def login_user():
     """Handle user login process"""
     if not st.session_state.logged_in:
@@ -39,19 +48,33 @@ def login_user():
         username = st.text_input("Username")
         password = st.text_input("Password", type="password")
         if st.button("Login"):
-            if username == "admin" and password == "admin":
+            if authenticate_user(username, password):
                 st.session_state.logged_in = True
                 st.session_state.username = username
+                st.rerun()  # Rerun to update the UI immediately
             else:
                 st.error("Invalid credentials")
         return None
     else:
         st.sidebar.success(f"Logged in as {st.session_state.username}")
         return st.session_state.username
+
+def authenticate_user(username, password):
+    """Check if username and password are correct"""
+    conn = sqlite3.connect("data/traffic_management.db")
+    cursor = conn.cursor()
     
-# Admin credentials (in a real app, these should be securely stored)
-ADMIN_USERNAME = "admin"
-ADMIN_PASSWORD = "admin"  # In production, use hashed passwords
+    try:
+        cursor.execute("SELECT password FROM users WHERE username = ?", (username,))
+        result = cursor.fetchone()
+        
+        if result is None:
+            return False  # User doesn't exist
+        
+        stored_password = result[0]
+        return verify_password(stored_password, password)
+    finally:
+        conn.close()
 
 def predict_traffic(df, origin, destination, selected_time=None):
     """
@@ -106,8 +129,8 @@ def predict_traffic(df, origin, destination, selected_time=None):
         dest_recent = destination_data.sort_values(by="timestamp").iloc[-1]
         
         # Average the metrics (weighted more toward origin as that's where traffic starts)
-        congestion_level = round((origin_recent['congestion_level'] * 0.7 + 
-                                 dest_recent['congestion_level'] * 0.3), 1)
+        congestion_level = int(round((origin_recent['congestion_level'] * 0.7 + 
+                                 dest_recent['congestion_level'] * 0.3), 1))
         
         traffic_volume = round((origin_recent.get('traffic_volume', 1000) * 0.7 + 
                               dest_recent.get('traffic_volume', 1000) * 0.3))
@@ -243,7 +266,7 @@ def create_user(username, password, is_admin=False):
         cursor.execute("""
             INSERT INTO users (username, password, is_admin)
             VALUES (?, ?, ?)
-        """, (username, password, int(is_admin)))
+        """, (username, hash_password(password), int(is_admin)))
         conn.commit()
         return True
     except sqlite3.IntegrityError:
@@ -279,12 +302,12 @@ def initialize_database():
     
     # Insert admin user if not exists
     cursor = conn.cursor()
-    cursor.execute("SELECT 1 FROM users WHERE username = ?", (ADMIN_USERNAME,))
+    cursor.execute("SELECT 1 FROM users WHERE username = ?", ("admin",))
     if not cursor.fetchone():
         cursor.execute("""
             INSERT INTO users (username, password, is_admin)
             VALUES (?, ?, ?)
-        """, (ADMIN_USERNAME, ADMIN_PASSWORD, 1))
+        """, ("admin", hash_password("admin"), 1))
     
     conn.commit()
     conn.close()
@@ -430,8 +453,8 @@ def display_route_map(origin, destination, prediction):
     # Display the map in Streamlit with a fixed key to prevent rerendering
     return st_folium(m, width=700, height=500, key=f"map_{origin}_{destination}")
 
-# Function to get user history
 def get_user_history(username):
+    """Get prediction history for a user"""
     # Ensure directory exists
     os.makedirs("history", exist_ok=True)
     
@@ -456,8 +479,8 @@ def get_user_history(username):
         ])
     return None
 
-# Function to save prediction to history
 def save_to_history(user, origin, destination, prediction, selected_time):
+    """Save a prediction to user history"""
     # Ensure directory exists
     os.makedirs("history", exist_ok=True)
     
@@ -481,8 +504,8 @@ def save_to_history(user, origin, destination, prediction, selected_time):
     conn.commit()
     conn.close()
 
-# Function to create simulated traffic data if it doesn't exist
 def create_sample_data():
+    """Create simulated traffic data if it doesn't exist"""
     # Create data directory if it doesn't exist
     os.makedirs("data", exist_ok=True)
     
@@ -583,6 +606,8 @@ with st.sidebar:
     if st.button("Logout"):
         st.session_state.logged_in = False
         st.session_state.username = None
+        st.session_state.prediction = None
+        st.session_state.view_history = False
         st.rerun()
 
 # Check if user is admin
