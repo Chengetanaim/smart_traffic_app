@@ -1,169 +1,169 @@
 timestamp,location,road_type,congestion_level,accident_probability,fuel_consumption_l_per_100km
-2025-05-10 00:00:00,CBD,main road,3,0.12,10.58
-2025-05-10 00:00:00,Avondale,main road,2,0.05,9.54
-2025-05-10 00:00:00,Borrowdale,highway,1,0.03,8.85
-2025-05-10 00:00:00,Highlands,main road,1,0.02,7.92
-2025-05-10 00:00:00,Mbare,main road,4,0.15,11.6
-2025-05-10 00:00:00,Mount Pleasant,highway,2,0.04,9.45
-2025-05-10 00:00:00,Westgate,residential,1,0.03,8.74
-2025-05-10 01:00:00,CBD,main road,2,0.08,9.86
-2025-05-10 01:00:00,Avondale,highway,1,0.05,7.75
-2025-05-10 01:00:00,Borrowdale,highway,1,0.02,8.38
-2025-05-10 01:00:00,Highlands,residential,1,0.03,7.93
-2025-05-10 01:00:00,Mbare,highway,3,0.14,9.86
-2025-05-10 01:00:00,Mount Pleasant,highway,1,0.03,7.75
-2025-05-10 01:00:00,Westgate,highway,1,0.02,7.89
-2025-05-10 02:00:00,CBD,highway,2,0.05,8.12
-2025-05-10 02:00:00,Avondale,residential,1,0.01,7.06
-2025-05-10 02:00:00,Borrowdale,residential,1,0.02,7.02
-2025-05-10 02:00:00,Highlands,highway,1,0.03,8.30
-2025-05-10 02:00:00,Mbare,residential,2,0.06,8.63
-2025-05-10 02:00:00,Mount Pleasant,highway,1,0.02,7.61
-2025-05-10 02:00:00,Westgate,residential,1,0.01,7.37
-2025-05-10 03:00:00,CBD,main road,1,0.04,7.33
-2025-05-10 03:00:00,Avondale,residential,1,0.02,7.39
-2025-05-10 03:00:00,Borrowdale,main road,1,0.03,7.46
-2025-05-10 03:00:00,Highlands,main road,1,0.02,7.05
-2025-05-10 03:00:00,Mbare,main road,2,0.08,8.19
-2025-05-10 03:00:00,Mount Pleasant,residential,1,0.01,7.35
-2025-05-10 03:00:00,Westgate,highway,1,0.02,7.87
-2025-05-10 04:00:00,CBD,highway,2,0.05,8.08
-2025-05-10 04:00:00,Avondale,residential,1,0.02,7.40
-2025-05-10 04:00:00,Borrowdale,main road,1,0.02,7.96
-2025-05-10 04:00:00,Highlands,main road,1,0.03,8.02
-2025-05-10 04:00:00,Mbare,main road,3,0.10,9.85
-2025-05-10 04:00:00,Mount Pleasant,main road,1,0.03,8.14
-2025-05-10 04:00:00,Westgate,main road,1,0.02,7.13
-2025-05-10 05:00:00,CBD,residential,2,0.05,8.88
-2025-05-10 05:00:00,Avondale,residential,2,0.05,8.68
-2025-05-10 05:00:00,Borrowdale,highway,1,0.03,7.94
-2025-05-10 05:00:00,Highlands,highway,2,0.04,7.61
-2025-05-10 05:00:00,Mbare,highway,3,0.09,9.49
-2025-05-10 05:00:00,Mount Pleasant,residential,2,0.04,8.20
-2025-05-10 05:00:00,Westgate,main road,1,0.03,8.18
-2025-05-10 06:00:00,CBD,residential,6,0.14,11.07
-2025-05-10 06:00:00,Avondale,residential,4,0.09,10.77
-2025-05-10 06:00:00,Borrowdale,main road,3,0.05,9.75
-2025-05-10 06:00:00,Highlands,residential,3,0.06,9.13
-2025-05-10 06:00:00,Mbare,highway,7,0.18,12.13
-2025-05-10 06:00:00,Mount Pleasant,main road,3,0.07,9.48
-2025-05-10 06:00:00,Westgate,residential,2,0.04,8.63
-2025-05-10 07:00:00,CBD,residential,8,0.20,12.71
-2025-05-10 07:00:00,Avondale,main road,6,0.15,11.33
-2025-05-10 07:00:00,Borrowdale,main road,5,0.10,10.76
-2025-05-10 07:00:00,Highlands,main road,4,0.09,9.60
-2025-05-10 07:00:00,Mbare,highway,9,0.22,12.76
-2025-05-10 07:00:00,Mount Pleasant,highway,5,0.12,10.48
-2025-05-10 07:00:00,Westgate,main road,4,0.08,9.35
-2025-05-10 08:00:00,CBD,highway,9,0.25,12.07
-2025-05-10 08:00:00,Avondale,residential,7,0.16,11.63
-2025-05-10 08:00:00,Borrowdale,main road,6,0.12,10.08
-2025-05-10 08:00:00,Highlands,residential,5,0.10,9.68
-2025-05-10 08:00:00,Mbare,highway,10,0.28,12.71
-2025-05-10 08:00:00,Mount Pleasant,main road,6,0.15,10.71
-2025-05-10 08:00:00,Westgate,residential,5,0.12,10.21
-2025-05-10 09:00:00,CBD,main road,8,0.18,11.05
-2025-05-10 09:00:00,Avondale,residential,5,0.12,10.20
-2025-05-10 09:00:00,Borrowdale,main road,5,0.10,9.92
-2025-05-10 09:00:00,Highlands,highway,4,0.09,9.33
-2025-05-10 09:00:00,Mbare,residential,8,0.20,11.80
-2025-05-10 09:00:00,Mount Pleasant,highway,4,0.09,9.54
-2025-05-10 09:00:00,Westgate,main road,4,0.09,9.99
-2025-05-10 10:00:00,CBD,main road,7,0.15,10.98
-2025-05-10 10:00:00,Avondale,residential,5,0.10,9.98
-2025-05-10 10:00:00,Borrowdale,main road,4,0.09,9.74
-2025-05-10 10:00:00,Highlands,residential,3,0.07,8.85
-2025-05-10 10:00:00,Mbare,residential,7,0.18,11.13
-2025-05-10 10:00:00,Mount Pleasant,residential,3,0.08,8.54
-2025-05-10 10:00:00,Westgate,highway,3,0.07,9.01
-2025-05-10 11:00:00,CBD,highway,7,0.17,11.00
-2025-05-10 11:00:00,Avondale,residential,5,0.11,9.21
-2025-05-10 11:00:00,Borrowdale,main road,4,0.08,9.91
-2025-05-10 11:00:00,Highlands,main road,3,0.06,8.84
-2025-05-10 11:00:00,Mbare,highway,8,0.20,11.77
-2025-05-10 11:00:00,Mount Pleasant,residential,3,0.07,8.67
-2025-05-10 11:00:00,Westgate,highway,3,0.06,8.90
-2025-05-10 12:00:00,CBD,highway,8,0.16,11.10
-2025-05-10 12:00:00,Avondale,highway,6,0.12,10.02
-2025-05-10 12:00:00,Borrowdale,highway,5,0.10,9.06
-2025-05-10 12:00:00,Highlands,residential,4,0.09,8.87
-2025-05-10 12:00:00,Mbare,highway,9,0.22,12.24
-2025-05-10 12:00:00,Mount Pleasant,highway,5,0.09,9.32
-2025-05-10 12:00:00,Westgate,highway,4,0.08,8.74
-2025-05-10 13:00:00,CBD,highway,7,0.16,10.85
-2025-05-10 13:00:00,Avondale,residential,5,0.10,9.43
-2025-05-10 13:00:00,Borrowdale,highway,4,0.09,9.19
-2025-05-10 13:00:00,Highlands,residential,3,0.07,8.07
-2025-05-10 13:00:00,Mbare,highway,8,0.20,11.24
-2025-05-10 13:00:00,Mount Pleasant,residential,3,0.06,8.90
-2025-05-10 13:00:00,Westgate,residential,3,0.07,8.98
-2025-05-10 14:00:00,CBD,highway,7,0.15,10.81
-2025-05-10 14:00:00,Avondale,residential,5,0.09,9.60
-2025-05-10 14:00:00,Borrowdale,main road,4,0.08,9.57
-2025-05-10 14:00:00,Highlands,main road,3,0.05,8.62
-2025-05-10 14:00:00,Mbare,residential,7,0.17,10.82
-2025-05-10 14:00:00,Mount Pleasant,residential,4,0.09,9.44
-2025-05-10 14:00:00,Westgate,residential,3,0.06,8.80
-2025-05-10 15:00:00,CBD,residential,6,0.15,10.68
-2025-05-10 15:00:00,Avondale,highway,5,0.10,9.85
-2025-05-10 15:00:00,Borrowdale,residential,4,0.08,9.23
-2025-05-10 15:00:00,Highlands,residential,4,0.07,8.51
-2025-05-10 15:00:00,Mbare,residential,8,0.20,11.30
-2025-05-10 15:00:00,Mount Pleasant,highway,4,0.08,9.47
-2025-05-10 15:00:00,Westgate,main road,3,0.07,8.31
-2025-05-10 16:00:00,CBD,residential,7,0.17,10.73
-2025-05-10 16:00:00,Avondale,main road,6,0.12,9.77
-2025-05-10 16:00:00,Borrowdale,highway,5,0.10,9.78
-2025-05-10 16:00:00,Highlands,residential,4,0.09,9.25
-2025-05-10 16:00:00,Mbare,highway,9,0.22,11.46
-2025-05-10 16:00:00,Mount Pleasant,highway,5,0.09,9.61
-2025-05-10 16:00:00,Westgate,residential,4,0.08,9.55
-2025-05-10 17:00:00,CBD,residential,9,0.20,12.57
-2025-05-10 17:00:00,Avondale,residential,7,0.18,11.01
-2025-05-10 17:00:00,Borrowdale,residential,6,0.15,10.80
-2025-05-10 17:00:00,Highlands,highway,5,0.12,9.29
-2025-05-10 17:00:00,Mbare,main road,10,0.25,12.33
-2025-05-10 17:00:00,Mount Pleasant,highway,6,0.16,10.26
-2025-05-10 17:00:00,Westgate,residential,5,0.12,9.62
-2025-05-10 18:00:00,CBD,main road,8,0.18,11.14
-2025-05-10 18:00:00,Avondale,highway,6,0.16,10.58
-2025-05-10 18:00:00,Borrowdale,main road,5,0.12,9.38
-2025-05-10 18:00:00,Highlands,main road,4,0.11,9.38
-2025-05-10 18:00:00,Mbare,residential,9,0.23,11.72
-2025-05-10 18:00:00,Mount Pleasant,residential,5,0.13,9.36
-2025-05-10 18:00:00,Westgate,residential,4,0.09,9.21
-2025-05-10 19:00:00,CBD,highway,7,0.15,10.79
-2025-05-10 19:00:00,Avondale,highway,5,0.10,9.23
-2025-05-10 19:00:00,Borrowdale,highway,4,0.08,8.92
-2025-05-10 19:00:00,Highlands,highway,3,0.06,8.45
-2025-05-10 19:00:00,Mbare,main road,8,0.18,10.90
-2025-05-10 19:00:00,Mount Pleasant,main road,4,0.10,9.08
-2025-05-10 19:00:00,Westgate,highway,3,0.07,8.73
-2025-05-10 20:00:00,CBD,highway,6,0.14,10.16
-2025-05-10 20:00:00,Avondale,main road,4,0.10,9.53
-2025-05-10 20:00:00,Borrowdale,residential,3,0.07,8.94
-2025-05-10 20:00:00,Highlands,highway,3,0.08,8.45
-2025-05-10 20:00:00,Mbare,residential,7,0.16,10.01
-2025-05-10 20:00:00,Mount Pleasant,main road,3,0.08,8.75
-2025-05-10 20:00:00,Westgate,residential,3,0.07,8.92
-2025-05-10 21:00:00,CBD,residential,5,0.12,9.59
-2025-05-10 21:00:00,Avondale,residential,4,0.09,8.54
-2025-05-10 21:00:00,Borrowdale,highway,3,0.06,8.12
-2025-05-10 21:00:00,Highlands,highway,2,0.05,8.01
-2025-05-10 21:00:00,Mbare,main road,6,0.14,9.29
-2025-05-10 21:00:00,Mount Pleasant,highway,3,0.06,8.67
-2025-05-10 21:00:00,Westgate,highway,2,0.05,7.87
-2025-05-10 22:00:00,CBD,main road,4,0.10,9.34
-2025-05-10 22:00:00,Avondale,highway,3,0.06,8.69
-2025-05-10 22:00:00,Borrowdale,residential,2,0.05,7.79
-2025-05-10 22:00:00,Highlands,highway,2,0.04,8.03
-2025-05-10 22:00:00,Mbare,residential,5,0.12,9.00
-2025-05-10 22:00:00,Mount Pleasant,highway,2,0.05,8.18
-2025-05-10 22:00:00,Westgate,highway,2,0.04,8.05
-2025-05-10 23:00:00,CBD,main road,3,0.10,9.11
-2025-05-10 23:00:00,Avondale,highway,2,0.05,8.17
-2025-05-10 23:00:00,Borrowdale,main road,2,0.04,8.63
-2025-05-10 23:00:00,Highlands,residential,1,0.03,7.80
-2025-05-10 23:00:00,Mbare,highway,4,0.12,9.02
-2025-05-10 23:00:00,Mount Pleasant,residential,2,0.05,8.35
-2025-05-10 23:00:00,Westgate,main road,1,0.03,7.32
+2025-05-10 00:00:00,CBD,main road,8,0.195,14.08
+2025-05-10 00:00:00,Avondale,main road,6,0.11,12.34
+2025-05-10 00:00:00,Borrowdale,highway,4,0.075,10.95
+2025-05-10 00:00:00,Highlands,main road,5,0.08,10.72
+2025-05-10 00:00:00,Mbare,main road,9,0.225,15.1
+2025-05-10 00:00:00,Mount Pleasant,highway,5,0.085,11.55
+2025-05-10 00:00:00,Westgate,residential,4,0.075,10.84
+2025-05-10 01:00:00,CBD,main road,7,0.155,13.36
+2025-05-10 01:00:00,Avondale,highway,4,0.095,9.85
+2025-05-10 01:00:00,Borrowdale,highway,4,0.065,10.48
+2025-05-10 01:00:00,Highlands,residential,4,0.075,10.03
+2025-05-10 01:00:00,Mbare,highway,7,0.2,12.66
+2025-05-10 01:00:00,Mount Pleasant,highway,4,0.075,9.85
+2025-05-10 01:00:00,Westgate,highway,4,0.065,9.99
+2025-05-10 02:00:00,CBD,highway,6,0.11,10.92
+2025-05-10 02:00:00,Avondale,residential,4,0.055,9.16
+2025-05-10 02:00:00,Borrowdale,residential,4,0.065,9.12
+2025-05-10 02:00:00,Highlands,highway,4,0.075,10.4
+2025-05-10 02:00:00,Mbare,residential,6,0.12,11.43
+2025-05-10 02:00:00,Mount Pleasant,highway,4,0.065,9.71
+2025-05-10 02:00:00,Westgate,residential,4,0.055,9.47
+2025-05-10 03:00:00,CBD,main road,6,0.115,10.83
+2025-05-10 03:00:00,Avondale,residential,4,0.065,9.49
+2025-05-10 03:00:00,Borrowdale,main road,5,0.09,10.26
+2025-05-10 03:00:00,Highlands,main road,5,0.08,9.85
+2025-05-10 03:00:00,Mbare,main road,7,0.155,11.69
+2025-05-10 03:00:00,Mount Pleasant,residential,4,0.055,9.45
+2025-05-10 03:00:00,Westgate,highway,4,0.065,9.97
+2025-05-10 04:00:00,CBD,highway,6,0.11,10.88
+2025-05-10 04:00:00,Avondale,residential,4,0.065,9.5
+2025-05-10 04:00:00,Borrowdale,main road,5,0.08,10.76
+2025-05-10 04:00:00,Highlands,main road,5,0.09,10.82
+2025-05-10 04:00:00,Mbare,main road,8,0.175,13.35
+2025-05-10 04:00:00,Mount Pleasant,main road,5,0.09,10.94
+2025-05-10 04:00:00,Westgate,main road,5,0.08,9.93
+2025-05-10 05:00:00,CBD,residential,6,0.11,11.68
+2025-05-10 05:00:00,Avondale,residential,5,0.095,10.78
+2025-05-10 05:00:00,Borrowdale,highway,4,0.075,10.04
+2025-05-10 05:00:00,Highlands,highway,5,0.085,9.71
+2025-05-10 05:00:00,Mbare,highway,7,0.15,12.29
+2025-05-10 05:00:00,Mount Pleasant,residential,5,0.085,10.3
+2025-05-10 05:00:00,Westgate,main road,5,0.09,10.98
+2025-05-10 06:00:00,CBD,residential,10,0.2,13.87
+2025-05-10 06:00:00,Avondale,residential,7,0.135,12.87
+2025-05-10 06:00:00,Borrowdale,main road,7,0.11,12.55
+2025-05-10 06:00:00,Highlands,residential,6,0.105,11.23
+2025-05-10 06:00:00,Mbare,highway,11,0.24,14.93
+2025-05-10 06:00:00,Mount Pleasant,main road,7,0.13,12.28
+2025-05-10 06:00:00,Westgate,residential,5,0.085,10.73
+2025-05-10 07:00:00,CBD,residential,15,0.305,17.61
+2025-05-10 07:00:00,Avondale,main road,13,0.255,16.23
+2025-05-10 07:00:00,Borrowdale,main road,12,0.205,15.66
+2025-05-10 07:00:00,Highlands,main road,11,0.195,14.5
+2025-05-10 07:00:00,Mbare,highway,15,0.31,16.96
+2025-05-10 07:00:00,Mount Pleasant,highway,11,0.21,14.68
+2025-05-10 07:00:00,Westgate,main road,11,0.185,14.25
+2025-05-10 08:00:00,CBD,highway,15,0.34,16.27
+2025-05-10 08:00:00,Avondale,residential,13,0.25,15.83
+2025-05-10 08:00:00,Borrowdale,main road,13,0.225,14.98
+2025-05-10 08:00:00,Highlands,residential,11,0.19,13.88
+2025-05-10 08:00:00,Mbare,highway,15,0.355,16.21
+2025-05-10 08:00:00,Mount Pleasant,main road,13,0.255,15.61
+2025-05-10 08:00:00,Westgate,residential,11,0.21,14.41
+2025-05-10 09:00:00,CBD,main road,15,0.285,15.95
+2025-05-10 09:00:00,Avondale,residential,11,0.21,14.4
+2025-05-10 09:00:00,Borrowdale,main road,12,0.205,14.82
+2025-05-10 09:00:00,Highlands,highway,10,0.18,13.53
+2025-05-10 09:00:00,Mbare,residential,15,0.305,16.7
+2025-05-10 09:00:00,Mount Pleasant,highway,10,0.18,13.74
+2025-05-10 09:00:00,Westgate,main road,11,0.195,14.89
+2025-05-10 10:00:00,CBD,main road,14,0.255,15.88
+2025-05-10 10:00:00,Avondale,residential,10,0.175,13.48
+2025-05-10 10:00:00,Borrowdale,main road,10,0.18,13.94
+2025-05-10 10:00:00,Highlands,residential,8,0.145,12.35
+2025-05-10 10:00:00,Mbare,residential,13,0.27,15.33
+2025-05-10 10:00:00,Mount Pleasant,residential,8,0.155,12.04
+2025-05-10 10:00:00,Westgate,highway,8,0.145,12.51
+2025-05-10 11:00:00,CBD,highway,13,0.26,15.2
+2025-05-10 11:00:00,Avondale,residential,10,0.185,12.71
+2025-05-10 11:00:00,Borrowdale,main road,10,0.17,14.11
+2025-05-10 11:00:00,Highlands,main road,9,0.15,13.04
+2025-05-10 11:00:00,Mbare,highway,14,0.29,15.97
+2025-05-10 11:00:00,Mount Pleasant,residential,8,0.145,12.17
+2025-05-10 11:00:00,Westgate,highway,8,0.135,12.4
+2025-05-10 12:00:00,CBD,highway,14,0.25,15.3
+2025-05-10 12:00:00,Avondale,highway,11,0.195,13.52
+2025-05-10 12:00:00,Borrowdale,highway,10,0.175,12.56
+2025-05-10 12:00:00,Highlands,residential,9,0.165,12.37
+2025-05-10 12:00:00,Mbare,highway,15,0.31,16.44
+2025-05-10 12:00:00,Mount Pleasant,highway,10,0.165,12.82
+2025-05-10 12:00:00,Westgate,highway,9,0.155,12.24
+2025-05-10 13:00:00,CBD,highway,13,0.25,15.05
+2025-05-10 13:00:00,Avondale,residential,10,0.175,12.93
+2025-05-10 13:00:00,Borrowdale,highway,9,0.165,12.69
+2025-05-10 13:00:00,Highlands,residential,8,0.145,11.57
+2025-05-10 13:00:00,Mbare,highway,14,0.29,15.44
+2025-05-10 13:00:00,Mount Pleasant,residential,8,0.135,12.4
+2025-05-10 13:00:00,Westgate,residential,8,0.145,12.48
+2025-05-10 14:00:00,CBD,highway,13,0.24,15.01
+2025-05-10 14:00:00,Avondale,residential,10,0.165,13.1
+2025-05-10 14:00:00,Borrowdale,main road,10,0.17,13.77
+2025-05-10 14:00:00,Highlands,main road,9,0.14,12.82
+2025-05-10 14:00:00,Mbare,residential,13,0.26,15.02
+2025-05-10 14:00:00,Mount Pleasant,residential,9,0.165,12.94
+2025-05-10 14:00:00,Westgate,residential,8,0.135,12.3
+2025-05-10 15:00:00,CBD,residential,12,0.24,14.88
+2025-05-10 15:00:00,Avondale,highway,10,0.175,13.35
+2025-05-10 15:00:00,Borrowdale,residential,9,0.155,12.73
+2025-05-10 15:00:00,Highlands,residential,9,0.145,12.01
+2025-05-10 15:00:00,Mbare,residential,14,0.29,15.5
+2025-05-10 15:00:00,Mount Pleasant,highway,9,0.155,12.97
+2025-05-10 15:00:00,Westgate,main road,9,0.16,12.51
+2025-05-10 16:00:00,CBD,residential,14,0.275,15.63
+2025-05-10 16:00:00,Avondale,main road,13,0.225,14.67
+2025-05-10 16:00:00,Borrowdale,highway,11,0.19,13.98
+2025-05-10 16:00:00,Highlands,residential,10,0.18,13.45
+2025-05-10 16:00:00,Mbare,highway,15,0.31,15.66
+2025-05-10 16:00:00,Mount Pleasant,highway,11,0.18,13.81
+2025-05-10 16:00:00,Westgate,residential,10,0.17,13.75
+2025-05-10 17:00:00,CBD,residential,15,0.29,16.77
+2025-05-10 17:00:00,Avondale,residential,13,0.27,15.21
+2025-05-10 17:00:00,Borrowdale,residential,12,0.24,15
+2025-05-10 17:00:00,Highlands,highway,11,0.21,13.49
+2025-05-10 17:00:00,Mbare,main road,15,0.325,15.83
+2025-05-10 17:00:00,Mount Pleasant,highway,12,0.25,14.46
+2025-05-10 17:00:00,Westgate,residential,11,0.21,13.82
+2025-05-10 18:00:00,CBD,main road,15,0.285,16.04
+2025-05-10 18:00:00,Avondale,highway,12,0.25,14.78
+2025-05-10 18:00:00,Borrowdale,main road,12,0.225,14.28
+2025-05-10 18:00:00,Highlands,main road,11,0.215,14.28
+2025-05-10 18:00:00,Mbare,residential,15,0.32,15.92
+2025-05-10 18:00:00,Mount Pleasant,residential,11,0.22,13.56
+2025-05-10 18:00:00,Westgate,residential,10,0.18,13.41
+2025-05-10 19:00:00,CBD,highway,12,0.225,14.29
+2025-05-10 19:00:00,Avondale,highway,9,0.16,12.03
+2025-05-10 19:00:00,Borrowdale,highway,8,0.14,11.72
+2025-05-10 19:00:00,Highlands,highway,7,0.12,11.25
+2025-05-10 19:00:00,Mbare,main road,14,0.27,15.1
+2025-05-10 19:00:00,Mount Pleasant,main road,9,0.175,12.58
+2025-05-10 19:00:00,Westgate,highway,7,0.13,11.53
+2025-05-10 20:00:00,CBD,highway,11,0.215,13.66
+2025-05-10 20:00:00,Avondale,main road,9,0.175,13.03
+2025-05-10 20:00:00,Borrowdale,residential,7,0.13,11.74
+2025-05-10 20:00:00,Highlands,highway,7,0.14,11.25
+2025-05-10 20:00:00,Mbare,residential,12,0.235,13.51
+2025-05-10 20:00:00,Mount Pleasant,main road,8,0.155,12.25
+2025-05-10 20:00:00,Westgate,residential,7,0.13,11.72
+2025-05-10 21:00:00,CBD,residential,10,0.195,13.09
+2025-05-10 21:00:00,Avondale,residential,8,0.15,11.34
+2025-05-10 21:00:00,Borrowdale,highway,7,0.12,10.92
+2025-05-10 21:00:00,Highlands,highway,6,0.11,10.81
+2025-05-10 21:00:00,Mbare,main road,12,0.23,13.49
+2025-05-10 21:00:00,Mount Pleasant,highway,7,0.12,11.47
+2025-05-10 21:00:00,Westgate,highway,6,0.11,10.67
+2025-05-10 22:00:00,CBD,main road,9,0.175,12.84
+2025-05-10 22:00:00,Avondale,highway,6,0.105,10.79
+2025-05-10 22:00:00,Borrowdale,residential,5,0.095,9.89
+2025-05-10 22:00:00,Highlands,highway,5,0.085,10.13
+2025-05-10 22:00:00,Mbare,residential,9,0.18,11.8
+2025-05-10 22:00:00,Mount Pleasant,highway,5,0.095,10.28
+2025-05-10 22:00:00,Westgate,highway,5,0.085,10.15
+2025-05-10 23:00:00,CBD,main road,8,0.175,12.61
+2025-05-10 23:00:00,Avondale,highway,5,0.095,10.27
+2025-05-10 23:00:00,Borrowdale,main road,6,0.1,11.43
+2025-05-10 23:00:00,Highlands,residential,4,0.075,9.9
+2025-05-10 23:00:00,Mbare,highway,8,0.18,11.82
+2025-05-10 23:00:00,Mount Pleasant,residential,5,0.095,10.45
+2025-05-10 23:00:00,Westgate,main road,5,0.09,10.12
