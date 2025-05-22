@@ -583,7 +583,7 @@ with st.sidebar:
     if st.button("Logout"):
         st.session_state.logged_in = False
         st.session_state.username = None
-        st.experimental_rerun()
+        st.rerun()
 
 # Check if user is admin
 conn = sqlite3.connect("data/traffic_management.db")
@@ -682,7 +682,7 @@ if is_admin and st.session_state.show_admin_panel:
                 selected_origin, selected_dest = route_to_unblock.split(" to ")[0], route_to_unblock.split(" to ")[1].split(" (")[0]
                 unblock_route(selected_origin, selected_dest)
                 st.success(f"Route {selected_origin} to {selected_dest} unblocked")
-                st.experimental_rerun()
+                st.rerun()
         else:
             st.info("No currently blocked routes")
         
@@ -723,7 +723,7 @@ if st.session_state.view_history:
     # Add a button to close history view
     if st.button("Close History"):
         st.session_state.view_history = False
-        st.experimental_rerun()
+        st.rerun()
         
 else:
     # Display prediction if it exists in session state
@@ -762,7 +762,7 @@ else:
                         unblock_route(st.session_state.current_origin, st.session_state.current_destination)
                         st.success("Route unblocked")
                         st.session_state.prediction = None
-                        st.experimental_rerun()
+                        st.rerun()
             else:
                 st.markdown(f"""
                 **Time of Day:** {prediction.get('time_of_day', 'N/A')}:00  
